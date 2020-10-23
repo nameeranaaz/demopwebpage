@@ -1,0 +1,77 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.box
+{
+    background-color: white;
+    height: 600px;
+    width: 900px;
+    display: block;
+    margin: 40px auto;
+
+}
+
+input
+{
+    width: 300px;
+    height: 15px;
+    display: block;
+    margin-left: 40px;
+    border: none;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+
+}
+
+label{
+    width: 400px;
+    display: block;
+    margin-left: 40px;
+    color: #28abb9;
+    font-size: 20px;
+}
+form{
+    margin: 10px auto;
+}
+
+.reg
+{
+    color: white; 
+    background-color:  #28abb9;
+    width: 70px;
+    height: 30px; 
+    margin-left: 40px; 
+}
+
+.res
+{
+    color:black; 
+    background-color: gray;
+    width: 70px;
+    height: 30px; 
+     
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+p{
+    margin-left: 40px;
+}
+
+a{
+    margin-left: 40px;  
+}
+
+.fname
+{
+    display: flex;
+}
+
+.login
+{
+    display: flex;
+}
